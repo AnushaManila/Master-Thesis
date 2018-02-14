@@ -1,6 +1,7 @@
 # Master-Thesis
-Implementation of all the experiments listed in my master thesis:
+Implementation of all the experiments listed in my master thesis:<br />
 This repository includes no datasets and only the code and generated results.
+<br />
 <br />
 Folder information:<br />
 01_Neural_Style-Transfer: includes the implementation of Neural Style transfer experiments.<br />
