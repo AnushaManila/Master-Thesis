@@ -1,6 +1,6 @@
 # Master-Thesis
 Implementation of all the experiments listed in my master thesis:<br />
-This repository includes no datasets and only the code and generated results.
+This repository includes no datasets but only the code and generated results.
 <br />
 <br />
 Folder information:<br />
