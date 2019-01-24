@@ -1,6 +1,5 @@
 # Master-Thesis
-Implementation of all the experiments listed in my master thesis:<br />
-This repository includes no datasets or any trained models but only the implementation and generated sample results.
+This repository includes no datasets or any trained models but only the implementation and generated sample results of my master Thesis executed at ['Computer Vision Lab, HCI'](https://hci.iwr.uni-heidelberg.de/home), University of Heidleberg under the guidance of Prof.Björn Ommer.
 <br />
 
 ### Folder information:
