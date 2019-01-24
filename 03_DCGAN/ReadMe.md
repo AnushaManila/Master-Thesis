@@ -4,7 +4,7 @@ One of the strong candidates for unsupervised learning was introduced in by Radf
 
 The instructions in acknowledgement, will provide details on how to deploy the project on a live system. The folder named 'Experiments' includes the implementation of all the DCGAN experiments and the folder named 'Results' has GIF images of generated output of each experiment.
 
-### Details of the DCGAN experiments
+## DCGAN experiments
 Original DCGAN Architecture:
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide23.jpg)</br>
 A 100 dimensional uniform distribution Z is projected to a small spatial extent convolutional representation with many feature maps. A series of four fractionally-strided convolutions then convert this high level representation into a 64×64 pixel image. Notably, no fully connected or pooling layers are used. [Further details](http://bamos.github.io/2016/08/09/deep-completion/) </br>
