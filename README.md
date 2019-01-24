@@ -25,13 +25,13 @@ Development Environment:
 ```
 ### Conclusion
 ##### Neural style transfer:
-	Top 5 to 10 % of eigenvalues are significant
+	Only top 5 to 10 % of eigenvalues of gram matrices are significant (Dimensionality Reduction)
 	Eigen components can control the amount of style texture
 ##### DCGAN
 	Suitable depth of intermediate layers: {1024, 512, 256, 128}
-	Best choice of latent space dimension:  >= 100  
+	The best choice of latent space dimension:  >= 100  
 	Up-sampling: Transposed convolution or Nearest neighbor interpolation
-	Extension up to 512X512 resolution
+	DCGAN architecture extension up to 512X512 resolution
 ##### Progressive GAN
 	Pros: 
 		High quality image generation up to 1024X1024 resolution
