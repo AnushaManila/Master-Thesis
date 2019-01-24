@@ -1,5 +1,5 @@
 # Master-Thesis
-This repository includes no datasets or any trained models but only the implementation and generated sample results of my Master's Thesis executed at ['Computer Vision Lab, HCI'](https://hci.iwr.uni-heidelberg.de/home), University of Heidleberg under the guidance of Prof.Björn Ommer. Please refer the project report for more information.
+This repository includes no datasets or any trained models but only the implementation and generated sample results of my Master's Thesis executed at ['Computer Vision Lab, HCI'](https://hci.iwr.uni-heidelberg.de/home), University of Heidleberg under the guidance of Prof.Björn Ommer. 
 <br />
 
 ### Folder information:
