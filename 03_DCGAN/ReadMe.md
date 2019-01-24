@@ -30,7 +30,7 @@ Changing the depth values of the generator architecture (Experiment 1 to 5) and 
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide29.jpg)
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide30.jpg)</br></br>
 #### 2. Altering the latent space dimension:
-The generator network of DCGAN takes a latent vector (also called as z vector) as input and generates fake images. From experiment 6 to 10 (z in R1 to z in R512), the random points for the latent vectors are uniformly sampled (over [0 to 1]) from different dimensional hyperspheres. Commensing with the smallest possible latent space dimension i.e, 1, the dimension value increased up to 512 (z in R1 to z in R512) in these experiments.
+The generator network of DCGAN takes a latent vector (also called as z vector) as input and generates fake images. Commensing with the smallest possible latent space dimension i.e, 1, the dimension value increased up to 512 (z in R1 to z in R512) in experiment 6 to 10. In these experiments, the random points for the latent vectors are uniformly sampled over [0 to 1] from different dimensional hyperspheres. 
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide31.jpg)
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide32.jpg)
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide33.jpg)
@@ -39,7 +39,7 @@ The generator network of DCGAN takes a latent vector (also called as z vector) a
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide36.jpg)
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide37.jpg)
 </br></br>
-#### 1. Up-sampling based on interpolations:
+#### 3. Up-sampling based on interpolations:
 In addition to Transposed Convolution for Upsampling, Nearest Neighbor and Bilinear interpolations are employed to upsample the feature maps of the generator and corresponding results are as shown in the figure below.
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide39.jpg)</br></br>
 #### 4. Extending the DCGAN architecture:
