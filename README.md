@@ -6,7 +6,7 @@ This repository includes no datasets or any trained models but only the implemen
 
 ### Folder information:
 **01_Neural_Style-Transfer:** includes the implementation of Neural Style transfer experiments.<br />
-**02_real-time-style-transfer:** includes the Johnson et al implementation of real time style transfer.<br />
+**02_real-time-style-transfer:** includes the implementation of [real time style transfer](https://arxiv.org/abs/1603.08155).<br />
 **03_DCGAN:** contains all the experiments on Deep Convolutional Generative Adversarial Networks.<br />
 **04_ProgressiveGAN:** includes the pytorch implementation of Progressive growing of GANs.<br />
 
