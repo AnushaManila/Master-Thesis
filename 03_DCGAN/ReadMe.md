@@ -50,7 +50,7 @@ When the resolution doubled to 128X128 pixel, total trainable parameters become 
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/03_DCGAN/Results/DCGAN_128.png)
 ![   ](https://github.com/AnushaManila/Master-Thesis/blob/master/03_DCGAN/Results/DCGAN_512_CelebAHQ.png)
 
-Note: The above pictures are directly from my master's thesis report.
+Note: The above pictures are directly taken from my master's thesis report.
 ## Acknowledgment
 
 * https://github.com/znxlwm/pytorch-MNIST-CelebA-GAN-DCGAN
