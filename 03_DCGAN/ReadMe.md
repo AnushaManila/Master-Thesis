@@ -22,6 +22,10 @@ Original DCGAN Architecture:
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide23.jpg)</br>
 Altering the Depth of Intermediate layers of DCGAN:
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide24.jpg)
+![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide25.jpg)
+![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide26.jpg)
+![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide27.jpg)
+![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide28.jpg)
 
 ## Acknowledgment
 
