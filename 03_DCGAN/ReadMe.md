@@ -20,9 +20,9 @@ The details of the above experiments are in the section below.
 ### DCGAN Experiment Results
 Original DCGAN Architecture:
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide23.jpg)</br></br>
-#### 1.Up-sampling based on interpolations:
+#### 1. Up-sampling based on interpolations:
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide39.jpg)</br></br>
-#### 2.Changing the Depth of Intermediate layers of DCGAN:
+#### 2. Changing the Depth of Intermediate layers of DCGAN:
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide24.jpg)
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide25.jpg)
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide26.jpg)
