@@ -16,6 +16,7 @@ The experiments are classified into four categories:
 3. Altering the latent space dimension
 4. Extending the DCGAN architecture
 ```
+The details of the above experiments are in the section below.
 ### DCGAN Experiment Results
 Original DCGAN Architecture:
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide23.jpg)</br></br>
