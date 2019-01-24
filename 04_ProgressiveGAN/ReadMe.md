@@ -6,5 +6,10 @@ Inspired by the work of [Karras et al.](https://arxiv.org/abs/1710.10196), we re
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide50.jpg)
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide51.jpg)
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide52.jpg)
+
 #### Progressive GAN Latent Space Interpolation
 [My Youtube Link](https://www.youtube.com/playlist?list=PLXWEtY4zQuFJ9v5SeitUW1VoyWw_338Hg)
+
+#### Conclusion
+Progressive GAN experiments have latent vectors sampled from the normal distribution with zero mean and standard deviation 1 both during training and testing. Training the GAN progressively has several benefits over traditional methods. Beginning with the smaller resolution, it is substantially more stable because there is less class information. Doubling the resolution in steps, we are continuously asking a much simpler question compared to the ultimate goal of discovering a mapping from latent vectors to the final resolution. The consequences are better understood by comparing the results obtained from training the GAN non progressively:
+![](https://github.com/AnushaManila/Master-Thesis/blob/master/04_ProgressiveGAN/non_progressive_GAN_256.png)
