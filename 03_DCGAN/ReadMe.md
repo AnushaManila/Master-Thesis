@@ -2,7 +2,7 @@
 One of the strong candidates for unsupervised learning was introduced in by Radford et al., in 2016. They presented Deep Convolutional Generative Adversarial Network (DCGAN)s which employ fractionally-strided convolutions to upsample images. Though GANs were both deep and convolutional prior to DCGANs, the name DCGAN is useful to refer to this specific style of architecture. Since then, DCGAN has been widely used by computer vision researchers. However, there is no referable document presenting and summarizing the experiments on altering the intermediate layers of DCGAN network and extending the model architecture. Starting with an overview, this section aims to provide a discussion on several experiments directed in this regard.
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See acknowledgement for details on how to deploy the project on a live system.
+The instructions in acknowledgement, will provide details on how to deploy the project on a live system.
 
 ### Details of the DCGAN experiments
 Original DCGAN Architecture:
