@@ -6,3 +6,4 @@ Inspired by the work of [Karras et al.](https://arxiv.org/abs/1710.10196), we re
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide50.jpg)
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide51.jpg)
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide52.jpg)
+#### [Progressive GAN Latent Space Interpolation](https://www.youtube.com/playlist?list=PLXWEtY4zQuFJ9v5SeitUW1VoyWw_338Hg)
