@@ -1,5 +1,6 @@
 # Generation of Faces with GANs-The DCGAN
-
+DCGAN Architecture:
+!(https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide23.jpg)
 The experiments on altering the intermediate layers of DCGAN network and extending the model architecture.
 
 ## Getting Started
@@ -18,8 +19,7 @@ The experiments are classified into five categories:
 5. Extending the DCGAN architecture
 ```
 ### DCGAN Experiment Results
-DCGAN Architecture:
-![alt text](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide23.jpg)
+
 
 ## Acknowledgment
 
