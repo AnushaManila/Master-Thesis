@@ -20,7 +20,7 @@ The details of the above experiments are in the section below.
 ### DCGAN Experiment Results
 
 #### 1. Changing the Depth of Intermediate layers of DCGAN:
-The DCGAN generator architecture shown above has the depths (1024, 512, 256, 128) of each intermediate layers which are formed by transposed convolution operations. These depth values are independent of the final output resolution. However, changing these depth values might affect the quality of generated results. In order to examine the effect of modifying the depth values, experiment 1 to 5 are executed. The red box shows the changes made to the original architecture.
+The DCGAN generator architecture shown above has the depths (1024, 512, 256, 128) of each intermediate layers which are formed by transposed convolution operations. These depth values are independent of the final output resolution. However, changing these depth values might affect the quality of generated results. In order to examine the effect of modifying the depth values, experiment 1 to 5 are executed. The red box shows the changes made.
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide24.jpg)
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide25.jpg)
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide26.jpg)
