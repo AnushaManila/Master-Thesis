@@ -19,9 +19,8 @@ The experiments are classified into five categories:
 ```
 ### DCGAN Experiment Results
 DCGAN Architecture:
-```
 ![alt text](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide23.jpg)
-```
+
 ## Acknowledgment
 
 * https://github.com/znxlwm/pytorch-MNIST-CelebA-GAN-DCGAN
