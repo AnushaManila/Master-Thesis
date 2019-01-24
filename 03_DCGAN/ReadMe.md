@@ -48,7 +48,8 @@ The original DCGAN architecture proposed by Radford et.al., generates low resolu
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide44.jpg)</br>
 When the resolution doubled to 128X128 pixel, total trainable parameters become 47.8M and 44.6M for generator and discriminator individually. The sample results are appear to be consistent with the lower resolution results. However, at 256X256 pixel resolution, total trainable parameters escalate to 185.3M and 178.8M for generator and discriminator respectively. Moreover, the image features gradually become undesirable. Similarly, up-sampling the resolution to 512X512 by extending the original architecture and using the CelebA dataset generated no good results. This is evident because generating higher quality images by training low resolution dataset is not practicable. However, additional experiment with the smaller but high quality dataset (CelebA HQ), shows better results.
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/03_DCGAN/Results/DCGAN_128.png)
-![](https://github.com/AnushaManila/Master-Thesis/blob/master/03_DCGAN/Results/DCGAN_512_CelebAHQ.png)
+![   ](https://github.com/AnushaManila/Master-Thesis/blob/master/03_DCGAN/Results/DCGAN_512_CelebAHQ.png)
+
 Note: The above pictures are directly from my master's thesis report.
 ## Acknowledgment
 
