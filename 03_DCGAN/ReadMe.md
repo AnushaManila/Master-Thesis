@@ -40,10 +40,14 @@ The generator network of DCGAN takes a latent vector (also called as z vector) a
 #### 3. Up-sampling based on interpolations:
 In addition to Transposed Convolution for Upsampling, Nearest Neighbor and Bilinear interpolations are employed to upsample the feature maps of the generator and corresponding results are as shown in the figure below.
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide39.jpg)</br></br>
+Certainly, DCGAN architecture with nearest neighbor up-sampling generates comparable results to the experiment of transposed convolution operation and the generated images are better than the bilinear interpolation based model results. The model based on nearest neighbor up-sampling (the curve in orange) converges better as seen from the Generator and Discriminator loss curves.
 #### 4. Extending the DCGAN architecture:
+The original DCGAN architecture proposed by Radford et.al., generates low resolution images (64X64 pixel only). To generate images with higher resolution, the Generator and Discriminator architectures of DCGAN are extended. 
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide40.jpg)
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide42.jpg)
-![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide44.jpg)
+![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide44.jpg)</br>
+When the resolution doubled to 128X128 pixel, total trainable parameters become 47.8M and 44.6M for generator and discriminator individually. The sample results are appear to be consistent with the lower resolution results. However, at 256X256 pixel resolution, total trainable parameters escalate to 185.3M and 178.8M for generator and discriminator respectively. Moreover, the image features gradually become undesirable. Similarly, up-sampling the resolution to 512X512 by extending the original architecture and using the CelebA dataset generated no good results. This is evident because generating higher quality images by training low resolution dataset is not practicable. However, additional experiment with the smaller but high quality dataset (CelebA HQ), shows better results.
+
 ## Acknowledgment
 
 * https://github.com/znxlwm/pytorch-MNIST-CelebA-GAN-DCGAN
