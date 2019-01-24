@@ -26,7 +26,9 @@ Development Environment:
 ### Conclusion
 ##### Neural style transfer Investigation:
 ```
-The contribution of top 5% eigen components of Gram matrices are significant and utilizing a specific set of eigen components provides the ability to choose the desired amount of style texture in neural style transfer. This invention is worthwhile since it allows to control the amount of texture to be transferred resulting in dimensionality reduction of neural style transfer. I have also observed that, instead of Gram matrix computation, aligning the channel-wise mean and variance of multiple instances of styles reduces the required time for stylization.
+The contribution of top 5% eigen components of Gram matrices are significant and utilizing a specific set of eigen components provides the ability to choose the desired amount of style texture in neural style transfer. 
+This invention is worthwhile since it allows to control the amount of texture to be transferred resulting in dimensionality reduction of neural style transfer. 
+I have also observed that, instead of Gram matrix computation, aligning the channel-wise mean and variance of multiple instances of styles reduces the required time for stylization.
 ```
 ##### DCGAN
 	Suitable depth of intermediate layers: {1024, 512, 256, 128}
