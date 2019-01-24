@@ -38,3 +38,5 @@ Development Environment:
 		Improved training stability
 	Cons:
 		Longer training time
+### Future work
+The contributions made in this work are of a practical nature; I have also tried to implement neural style transfer for multiple styles by combining Auxiliary Classifier GAN (ACGAN) along with the second stage of stackGAN frameworks and training on the [wikiart dataset](https://www.wikiart.org/) for several classes of artworks. Due to model complexity and time constraints, the work had to be paused. As a future work, I hope to develop a generative method (based on DCGAN or Progressive GAN) to combine the ideas towards multi-style transfer with more rigorous theoretical understanding.
