@@ -24,7 +24,7 @@ Development Environment:
 	Tensorboard 1.6.0
 ```
 ### Conclusion
-##### Neural style transfer:
+##### Neural style transfer Investigation:
 	Only top 5 to 10 % of eigenvalues of gram matrices are significant (Dimensionality Reduction)
 	Eigen components can control the amount of style texture
 ##### DCGAN
