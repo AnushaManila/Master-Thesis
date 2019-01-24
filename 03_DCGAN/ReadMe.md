@@ -6,20 +6,6 @@ The experiments on altering the intermediate layers of DCGAN network and extendi
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See acknowledgement for details on how to deploy the project on a live system.
 
-### Prerequisites
-Development Environment:
-```
-	Ubuntu 16.04 LTS
-	NVIDIA Titan X (Pascal/Maxwell)/Quadro P5000
-	cuda 8.0
-	Python 2.7.6
-	pytorch 0.1.12
-	torchvision 0.1.8
-	matplotlib 1.3.1
-	imageio 2.2.0
-	Tensorboard 1.6.0
-```
-
 ### Details of the DCGAN experiments
 
 The experiments are classified into five categories:
@@ -31,7 +17,11 @@ The experiments are classified into five categories:
 4. Altering the latent space dimension
 5. Extending the DCGAN architecture
 ```
-
+### DCGAN Experiment Results
+DCGAN Architecture:
+```
+![alt text](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide23.jpg)
+```
 ## Acknowledgment
 
 * https://github.com/znxlwm/pytorch-MNIST-CelebA-GAN-DCGAN
