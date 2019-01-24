@@ -26,6 +26,7 @@ The red box shows the changes made to the original architecture.
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide26.jpg)
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide27.jpg)
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide28.jpg)
+Changing the depth values of the generator architecture(Experiment 1 to 5) and keeping the latent space dimension constant, impacts the final image quality as shown below:
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide29.jpg)
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide30.jpg)</br></br>
 #### 2. Altering the latent space dimension:
