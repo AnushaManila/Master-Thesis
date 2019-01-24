@@ -19,7 +19,7 @@ The experiments are classified into five categories:
 ```
 ### DCGAN Experiment Results
 Original DCGAN Architecture:
-![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide23.jpg)
+![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide23.jpg)</br>
 Altering the Depth of Intermediate layers of DCGAN:
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide24.jpg)
 
