@@ -7,8 +7,9 @@ The experiments on altering the intermediate layers of DCGAN network and extendi
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See acknowledgement for details on how to deploy the project on a live system.
 
 ### Details of the DCGAN experiments
-
-The experiments are classified into four categories:
+Original DCGAN Architecture:
+![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide23.jpg)</br></br>
+The experiments are carried out to understand what happens when the parameters of DCGAN architecture are altered and are classified into four categories mentioned below:
 
 ```
 1. Up-sampling based on interpolations
@@ -18,8 +19,7 @@ The experiments are classified into four categories:
 ```
 The details of the above experiments are in the section below.
 ### DCGAN Experiment Results
-Original DCGAN Architecture:
-![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide23.jpg)</br></br>
+The red box shows the changes made to the original architecture.
 #### 1. Up-sampling based on interpolations:
 ![ ](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide39.jpg)</br></br>
 #### 2. Changing the Depth of Intermediate layers of DCGAN:
