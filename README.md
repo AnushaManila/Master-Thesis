@@ -4,7 +4,7 @@ Recent works have shown the power of Convolutional Neural Network (CNN)s to reco
 This repository includes no datasets or any trained models but only the implementation and generated sample results of my Master's Thesis executed under the guidance of Prof.Björn Ommer at ['Computer Vision Lab, HCI'](https://hci.iwr.uni-heidelberg.de/home), University of Heidleberg, Germany.
 <br />
 
-### Folder information:
+### Folder information
 **01_Neural_Style-Transfer:** includes the implementation of Neural Style transfer experiments.<br />
 **02_real-time-style-transfer:** includes the implementation of [real time style transfer](https://arxiv.org/abs/1603.08155).<br />
 **03_DCGAN:** contains all the experiments on Deep Convolutional Generative Adversarial Networks.<br />
@@ -23,7 +23,7 @@ Development Environment:
 	imageio 2.2.0
 	Tensorboard 1.6.0
 ```
-### Conclusion:
+### Conclusion
 ##### Neural style transfer:
 	Top 5 to 10 % of eigenvalues are significant
 	Eigen components can control the amount of style texture
