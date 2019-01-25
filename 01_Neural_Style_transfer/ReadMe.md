@@ -19,7 +19,17 @@ The investigations are classified into four categories:
 3. Style loss modification to reduce dimension
 4. Style image patches
 ```
-
+![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide10.jpg)
+![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide11.jpg)
+![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide12.jpg)
+![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide13.jpg)
+![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide18.jpg)
+![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide14.jpg)
+![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide15.jpg)
+![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide16.jpg)
+![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide17.jpg)
+![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide20.jpg)
+![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide21.jpg)
 
 ### Acknowledgment
 
