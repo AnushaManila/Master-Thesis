@@ -32,6 +32,7 @@ Similarly, the eigenvector corresponding to the smallest eigenvalue is replaced 
 Eigenvalue index vs eigenvalue magnitude plotted for a specific Gram matrix with dimension 512X512. Only the largest 5% (0 to 25) eigenvalues are significant as shown in the plot. The remaining 90% to 95% have comparatively lower eigenvalue magnitudes and their contribution is negligible in neural style transfer.
 
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide18.jpg)</br>
+The maximum and minimum provide good examples of the types of descriptive statistics which are easy to marginalize; while, mean is one of the measures of central tendency in a given dataset. To be able to feed multiple instances of the same style at a time, we computed the element-wise mean, maximum and minimum of the Gram matrices of each instance and reconstructed as single Gram matrix for each style-layer. The generated stylized images are shown in figure above.
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide14.jpg)</br>
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide15.jpg)</br>
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide16.jpg)</br>
