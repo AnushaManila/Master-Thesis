@@ -5,7 +5,7 @@ Recent works have shown the power of Convolutional Neural Network (CNN)s to reco
 
 ### Repository information
 **01_Neural_Style-Transfer:** Refer the [./01_Neural_Style-Transfer/ReadMe.md](https://github.com/AnushaManila/Master-Thesis/blob/master/01_Neural_Style_transfer/ReadMe.md) for more details. The folder also includes the implementation of Neural Style transfer experiments.<br />
-**02_real-time-style-transfer:** includes the implementation of [real time style transfer](https://arxiv.org/abs/1603.08155).<br />
+**02_real-time-style-transfer:** This is supplementary work on Neural Style Transfer. It includes the implementation of [real time style transfer](https://arxiv.org/abs/1603.08155).<br />
 **03_DCGAN:** Refer the [./03_DCGAN/ReadMe.md](https://github.com/AnushaManila/Master-Thesis/blob/master/03_DCGAN/ReadMe.md) for more details. The folder contains all the experiments on Deep Convolutional Generative Adversarial Networks.<br />
 **04_ProgressiveGAN:** Refer the [./04_ProgressiveGAN/ReadMe.md](https://github.com/AnushaManila/Master-Thesis/blob/master/04_ProgressiveGAN/ReadMe.md) for more details. The folder includes the pytorch implementation of Progressive growing of GANs.<br />
 
