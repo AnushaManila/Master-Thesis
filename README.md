@@ -4,10 +4,10 @@ This repository includes the implementation and generated sample results of my M
 Recent works have shown the power of Convolutional Neural Network (CNN)s to reconstruct an image with a target style by separating and recombining the content and style of two images. This process of extracting the semantic content of one image and applying the style or texture of another image is referred as Neural Style Transfer. Since the recent successful demonstration of [Neural Style Transfer](https://arxiv.org/abs/1508.06576), it has become an active research topic in both the academia and industry. We experiment with Gram matrices to control the amount of style texture by reducing the dimensionality and also try to extend the existing models to combine multiple instances of a style. Furthermore, artificial image generation experiments are carried out based on popular Generative Adversarial Network (GAN) architectures namely, Deep Convolutional GAN [DCGAN](https://arxiv.org/abs/1511.06434) introduced in 2016 and recently presented Progressive growing of GANs [Progressive GAN](https://arxiv.org/abs/1710.10196).
 
 ### Folder information
-**01_Neural_Style-Transfer:** includes the implementation of Neural Style transfer experiments.<br />
+**01_Neural_Style-Transfer:** Refer the ./01_Neural_Style-Transfer/ReadMe.md for more details. The folder also includes the implementation of Neural Style transfer experiments.<br />
 **02_real-time-style-transfer:** includes the implementation of [real time style transfer](https://arxiv.org/abs/1603.08155).<br />
-**03_DCGAN:** contains all the experiments on Deep Convolutional Generative Adversarial Networks.<br />
-**04_ProgressiveGAN:** includes the pytorch implementation of Progressive growing of GANs.<br />
+**03_DCGAN:** Refer the ./03_DCGAN/ReadMe.md for more details. The folder contains all the experiments on Deep Convolutional Generative Adversarial Networks.<br />
+**04_ProgressiveGAN:** Refer the ./04_ProgressiveGAN/ReadMe.md for more details. The folder includes the pytorch implementation of Progressive growing of GANs.<br />
 
 ### Prerequisites
 Development Environment:
