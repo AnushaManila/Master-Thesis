@@ -30,6 +30,7 @@ Reducing the weight of the corresponding eigenvector of 50% of the smallest eige
 Similarly, the eigenvector corresponding to the smallest eigenvalue is replaced with a normalized vector of ones as in equation above and the smallest eigenvalue to be million times smaller than the actual value. This approach preserves the texture information with scattered noise as in sub-figure above and the stylized image appears slightly different from the resulting image of previous reconstructions.
 
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide13.jpg)</br>
+#### Observation:
 Eigenvalue index vs eigenvalue magnitude plotted for a specific Gram matrix with dimension 512X512. Only the largest 5% (0 to 25) eigenvalues are significant as shown in the plot. The remaining 90% to 95% have comparatively lower eigenvalue magnitudes and their contribution is negligible in neural style transfer.
 
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide18.jpg)</br>
