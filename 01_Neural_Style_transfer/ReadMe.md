@@ -42,10 +42,12 @@ In order to check the possibility of reducing the dimensionality of style textur
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide16.jpg)</br>
 Style transfer with modified style loss function. Comparison of results obtained by choosing sorted eigen components 10 percent sequentially.</br>
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide17.jpg)</br>
-                                                       [AdaIN](https://arxiv.org/abs/1703.06868)
+                                    [AdaIN](https://arxiv.org/abs/1703.06868)
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide20.jpg)</br>
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide21.jpg)</br>
 Several instances of a style of Paul Signac artworks are considered as shown in figure above. AdaIN statistics namely mean and standard deviation are pre-computed for every instance. The descriptive statistics are evaluated over these statistics. Then the AdaIN approach is followed for a single style image. The results are compared with the descriptive statistics computed over Gram matrices of style instances.
+#### Observation:
+Replacing the loss functions of Gatys et al method with the loss functions of AdaIN method has a great computational advantage in neural style transfer. AdaIn statistics need no Gram matrix computations and hence the time required to generate the stylized image is much less than the Gram matrix based method. The results are also similar to Gatys et al as compared earlier. Similarly, combining multiple instances of a style is faster with AdaIN statistics and the resulting images are compared with Gram matrix based method and they produce more or less similar stylized images.
 
 ### Acknowledgment
 
