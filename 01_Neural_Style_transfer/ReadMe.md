@@ -4,6 +4,7 @@ Artistic Style Transfer using CNN has shown appealing results with new forms of 
 
 Beginning with the random noise, the idea is to update pixels in the stylized image (yet unknown) iteratively through backpropagation. The objective of image iteration is to minimize the total loss such that the stylized image simultaneously emulates the semantic essence of the content image and the style representation of the style image.
 
+![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide04.jpg)
 ## Getting Started
 
 The basic idea of Style Transfer is from ['Image Style Transfer using CNN'](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html)
