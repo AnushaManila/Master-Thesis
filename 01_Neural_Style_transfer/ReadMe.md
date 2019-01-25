@@ -40,7 +40,9 @@ In order to check the possibility of reducing the dimensionality of style textur
 
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide15.jpg)</br>
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide16.jpg)</br>
+Style transfer with modified style loss function. Comparison of results obtained by choosing sorted eigen components 10 percent sequentially.
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide17.jpg)</br>
+[AdaIN](https://arxiv.org/abs/1703.06868)
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide20.jpg)</br>
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide21.jpg)</br>
 
