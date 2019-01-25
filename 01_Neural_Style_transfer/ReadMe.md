@@ -23,6 +23,8 @@ The investigations are classified into four categories:
 A Gram (or Grammian) matrix G in the context of style transfer contains the un-shifted cross-correlation between all pairs of feature maps within the same layers of the CNN. The feature map contains a high-level presentation of features such as colors, texture, edges, and shapes. A cross-correlation of feature maps on an image with respect to itself gives a measure of which features in an image occur together, and these correlated features constitute the style of an image intuitively. The essence of neural style transfer is to match the feature distributions between the style images and the generated stylized images. G is a square (N⇥N) matrix with linearly independent eigenvectors p_i(i=1,....,N). The columns of P are the eigenvectors and lambda is the diagonal matrix whose diagonal elements are the corresponding eigenvalues. With Gatys et al as the baseline and using all the eigenvalues and eigenvectors of Gram matrices for the reconstruction, the recreation in above sub-figure is exactly same as the stylized image obtained by using original Gram matrices directly without eigen decomposition.
 
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide11.jpg)
+Reducing the weight of the corresponding eigenvector of 50% of the smallest eigenvalues preserves the style texture as shown above.
+
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide12.jpg)
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide13.jpg)
 ![](https://github.com/AnushaManila/Master-Thesis/blob/master/05_Thesis_Slides/Slide18.jpg)
